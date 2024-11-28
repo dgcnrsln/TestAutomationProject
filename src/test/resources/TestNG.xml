@@ -1,0 +1,10 @@
+<suite name="TestArea Project">
+
+    <parameter name="browser" value="Chrome"/>
+    <test name="Cucumber">
+        <classes>
+            <class name="Runners.Runner"/>
+        </classes>
+    </test>
+
+</suite>

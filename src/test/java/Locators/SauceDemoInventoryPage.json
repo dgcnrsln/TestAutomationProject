@@ -1,0 +1,29 @@
+{
+  "elements": [
+    {
+      "locatorType": "xpath",
+      "elementName": "Products",
+      "locatorValue": "//*[text()='Products']"
+    },
+    {
+      "locatorType": "xpath",
+      "elementName": "Sauce Labs Backpack",
+      "locatorValue": "//*[text()='Sauce Labs Backpack']"
+    },
+    {
+      "locatorType": "xpath",
+      "elementName": "Add To Cart",
+      "locatorValue": "//*[text()='ADD TO CART']"
+    },
+    {
+      "locatorType": "id",
+      "elementName": "Cart",
+      "locatorValue": "shopping_cart_container"
+    },
+    {
+      "locatorType": "xpath",
+      "elementName": "Cart Item",
+      "locatorValue": "//*[@class='cart_item']"
+    }
+  ]
+}

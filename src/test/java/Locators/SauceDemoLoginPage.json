@@ -1,0 +1,29 @@
+{
+  "elements": [
+    {
+      "locatorType": "xpath",
+      "elementName": "Logo",
+      "locatorValue": "//*[@class='login_logo']"
+    },
+    {
+      "locatorType": "id",
+      "elementName": "Username",
+      "locatorValue": "user-name"
+    },
+    {
+      "locatorType": "id",
+      "elementName": "Password",
+      "locatorValue": "password"
+    },
+    {
+      "locatorType": "id",
+      "elementName": "Login Button",
+      "locatorValue": "login-button"
+    },
+    {
+      "locatorType": "xpath",
+      "elementName": "Error Message",
+      "locatorValue": "//*[@data-test='error']"
+    }
+  ]
+}

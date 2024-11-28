@@ -1,0 +1,24 @@
+{
+  "testData": [
+    {
+      "elementName": "Sauce Demo",
+      "value": "https://www.saucedemo.com/v1/index.html"
+    },
+    {
+      "elementName": "Standard User",
+      "value": "standard_user"
+    },
+    {
+      "elementName": "Password",
+      "value": "secret_sauce"
+    },
+    {
+      "elementName": "Invalid User",
+      "value": "standard_user123"
+    },
+    {
+      "elementName": "Invalid Password",
+      "value": "secret_sauce123"
+    }
+  ]
+}
